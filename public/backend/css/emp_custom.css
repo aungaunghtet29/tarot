@@ -1,0 +1,31 @@
+/* EMP Home */
+
+
+.app-page-title {
+    padding: 13px 30px;
+    margin-bottom: 0px;
+}
+
+
+
+/* Order  */
+
+.custom-btn{
+    width: 100%;
+}
+
+.left-arrow{
+    padding: 10px 30px;
+    background-color: #fff;
+    border-radius: 7px;
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;
+    cursor: pointer;
+}
+
+.custom-card{
+    border-radius: 8px;
+}
+
+.employee-detail span{
+    font-size: 16px ;
+}

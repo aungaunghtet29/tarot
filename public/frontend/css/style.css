@@ -1,0 +1,115 @@
+/*--- Home Page -----*/
+
+
+@media(max-width: 768px){
+    .abhigya{
+        width: 500;
+        height: 500;
+    }
+
+    .plain-card {
+        margin-left: -20px;
+    }
+    .heading-name{
+        font-size: 13px !important;
+    }
+
+    .heading-name p{
+        margin-bottom: 0px !important;
+        margin-left: 8px;
+    }
+    .boy{
+        width: 130px;
+        height: 130px;
+        margin-right: 30px !important;
+    }
+    .logo{
+        width: 150px;
+        height: 60px;
+    }
+    .abhigya{
+        width: 300px !important;
+        height: 150px !important;
+    }
+    .tarot img{
+        width: 50px;
+        height: 70px;
+    }
+    .body-text{
+        font-size: 11px;
+        line-height: 1.5;
+    }
+
+
+
+    .order-text{
+        font-size: 11px;
+        line-height: 1.5;
+    }
+    .order-boy{
+        width: 300px !important;
+        height: 150px !important;
+    }
+    .order-heading{
+        font-size: 14px !important;
+        font-weight: 700 !important;
+    }
+    .second-order-heading{
+        font-size: 11px !important;
+    }
+    .third-order-heading{
+        font-size: 14px !important;
+        font-weight: 700 !important;
+        text-align: center !important;
+    }
+}
+
+
+.heading-name{
+    color: #DDC091;
+    text-align: center;
+    font-size: 21px;
+    margin: 0;
+    line-height: 1.7;
+}
+.body-text{
+    color: #333;
+    font-size: 15px;
+    line-height: 1.9;
+}
+
+
+.bottom-menu{
+    padding: 15px 30px;
+}
+
+
+
+
+/*------ Order Form ------*/
+
+
+
+.order-form .custom-card {
+    border-radius: 7px;
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;
+}
+
+.custom-btn{
+    width: 100%;
+}
+
+.order-text{
+    color: #333;
+    font-size: 15px;
+    line-height: 1.9;
+}
+
+
+/* Admin Login */
+
+.custom-card{
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    border-radius: 8px;
+}
+
